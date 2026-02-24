@@ -71,6 +71,10 @@ pip install einops av open_clip_torch
 pip install 'accelerate>=0.26.0'
 ```
 
+6. Download Checkpoints :
+```bash
+From : https://llava-vl.github.io/blog/2024-09-30-llava-video/
+```
 ## Configuration
 
 Edit the `CONFIG` dictionary in the script to customize:
